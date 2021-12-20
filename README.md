@@ -10,7 +10,7 @@ $ npm i colorl -S
 
 ## demo
 
-![demo](https://ibb.co/GfDYR7Z)
+![demo](https://i.ibb.co/fVW6HM3/Screenshot-2021-12-20-at-10-12-28-PM.png)
 
 ## Usage
 
