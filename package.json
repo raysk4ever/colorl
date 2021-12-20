@@ -1,6 +1,6 @@
 {
   "name": "colorl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A colorful logger for the browser",
   "main": "index.js",
   "scripts": {
