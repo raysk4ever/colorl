@@ -8,6 +8,10 @@
 $ npm i colorl -S
 ```
 
+## demo
+
+![demo](https://ibb.co/GfDYR7Z)
+
 ## Usage
 
 You can use this logger for your frontend projects, choose as an ES6 module.
